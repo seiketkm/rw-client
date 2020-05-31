@@ -1,6 +1,10 @@
 # description
 
-rw-client unofficial
+unofficial rw-client.
+
+Handle Alt+F4 Escape F11 Ctrl+W
+
+Can't handle "Windows key" & "Alt+Tab"
 
 # start
 
