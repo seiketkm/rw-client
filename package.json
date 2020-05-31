@@ -1,0 +1,20 @@
+{
+  "name": "rw-client",
+  "version": "1.0.0",
+  "description": "remoteworks client(unofficial)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@seiketkm",
+  "license": "MIT",
+  "devDependencies": {
+    "asar": "^3.0.3",
+    "electron": "^9.0.0",
+    "electron-packager": "^14.2.1"
+  },
+  "dependencies": {
+    "electron-localshortcut": "^3.2.1"
+  }
+}
